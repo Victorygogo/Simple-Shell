@@ -1,1 +1,6 @@
-Simple-Shell Team Project
+#Simple-Shell Team Project
+
+##Contributors
+    - Omotayo Kolade
+    - Victory Ijongo
+
